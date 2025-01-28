@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YogeshBerwalIITM
+- 👋 Hi, I’m Yogesh Berwal
 - 👀 I’m interested in AI, ML, Web Devlopment
 - 🌱 I’m currently studying at IIT Madras
 - 💞️ I’m looking to collaborate on Web Dev technologies
